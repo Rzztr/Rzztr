@@ -28,8 +28,8 @@ Soy un entusiasta de la **ciberseguridad**, el **desarrollo de software** y los 
 ## 🧪 Proyectos Destacados
 
 - 🆘 **Botón de pánico "Atenea"**: Proyecto de seguridad ciudadana con geolocalización.
-- **TODO Estudiantes**: Proyecto realizado y pensado como organizador de tareas y pendientes en linea para estudiantes universitarios, preparatoria, secundaria etc...
-- **Auditor Linux/Windows**: Scripts de generacion de logs de auditoria en sistema para recabacion de informacion para mejorar la eficiencia de auditorias digitales en sistemas operativos.
+- 🏫 **TODO Estudiantes**: Proyecto realizado y pensado como organizador de tareas y pendientes en linea para estudiantes universitarios, preparatoria, secundaria etc...
+- 🐦‍⬛🦅 **Auditor Linux/Windows**: Scripts de generacion de logs de auditoria en sistema para recabacion de informacion para mejorar la eficiencia de auditorias digitales en sistemas operativos.
 ---
 
 ## 🧰 Tech Stack
