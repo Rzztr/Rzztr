@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy r$tr
+# 👋 ¡Hola! Soy Ricardo Reyes
 
 Soy un entusiasta de la **ciberseguridad**, el **desarrollo de software** y los proyectos de **tecnología aplicada**. Me apasiona resolver problemas complejos, experimentar con hardware y software, y llevar las ideas desde el prototipo hasta algo funcional (y si es con un poco de drama técnico, mejor).
 
