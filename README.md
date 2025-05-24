@@ -57,4 +57,5 @@ Seguir desarrollando soluciones donde hardware y software converjan para resolve
 ## ☕ ¿Charlamos?
 
 Siempre estoy abierto a colaborar en proyectos interesantes o simplemente intercambiar ideas. Si tienes algo en mente, ¡échame un grito por aquí o en alguna colaboración!
+**WSP**: 449 540 3142
 
